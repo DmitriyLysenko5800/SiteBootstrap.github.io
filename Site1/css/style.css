@@ -1,0 +1,37 @@
+body {
+  background-color: #000000;
+}
+
+body .container {
+    padding: 10px;
+
+}
+
+.shadow{
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 5px;
+
+
+}
+
+/* Стили gallery.html */
+.top-buffer {
+  margin-top:100px;
+}
+
+/* Стили Peviews.html */
+iframe {
+  width: 560px;
+  heigh: 315px;
+}
+
+
+
+
+
+
+
+/*                      --РАЗМЕР КНОПКИ--
+body .btn{
+  padding: 20px;
+}
